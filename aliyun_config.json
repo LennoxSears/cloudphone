@@ -1,0 +1,19 @@
+[
+    {
+        "ALIBABA_CLOUD_ACCESS_KEY_ID": "LTAI5paLBqnv8h98",
+        "ALIBABA_CLOUD_ACCESS_KEY_SECRET": "OotgVRCJT5xXDuBFFwYHtZTZnrqZfM",
+        "securityGroupId" : "sg-uf61q1mp03rb4h4ipdtt",
+        "vSwitchId" : "vsw-uf63tjdzsnaxtoh2wt30p",
+        "accountId" : "g1rvan4",
+        "image": "registry-vpc.cn-shanghai.aliyuncs.com/lennox-docker/tickets-docker:0.0.1"
+    },
+
+    {
+        "ALIBABA_CLOUD_ACCESS_KEY_ID": "LTAI5t9h2T4Ry1PUyz6xAJmW",
+        "ALIBABA_CLOUD_ACCESS_KEY_SECRET": "GBX6RTfg38ZyJS4ItzQK6XXsgBu5sY",
+        "securityGroupId" : "sg-uf6i3pzp05o2t0s62sql",
+        "vSwitchId" : "vsw-uf60657a9vdchez2j5r5c",
+        "accountId" : "603626504@qq.com",
+        "image": "registry-vpc.cn-shanghai.aliyuncs.com/lennox-docker-6036/tickets-docker:0.0.1"
+    }
+]
